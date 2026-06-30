@@ -15,7 +15,6 @@ I am currently pursuing a **Bachelor of Arts (Honours) in Economics** at Azim Pr
 ### **Azim Premji University, Bhopal, Madhya Pradesh**
 * **Degree:** Bachelor of Arts (Honours) in Economics
 * **Timeline:** 2024 – 2028 (Expected)
-* **Graduating Grade:** 5.10
 * **Core Coursework:** * Microeconomics, Macroeconomics, Econometrics
   * Special Concentration: *Data, Democracy, and Development*
 * **Academic Course Mentor:** Dr. Bilal Bhat (Assistant Professor of Economics)
@@ -23,11 +22,9 @@ I am currently pursuing a **Bachelor of Arts (Honours) in Economics** at Azim Pr
 ### **Convent of Gagan Bharti, New Delhi**
 * **Certification:** Senior Secondary Education (Science - PCM Stream)
 * **Timeline:** 2023 – 2024
-* **Grade:** 55%
 
 ### **Spring Meadows Public School, New Delhi**
 * **Certification:** Higher Secondary Education
-* **Grade:** 65%
 
 ---
 
